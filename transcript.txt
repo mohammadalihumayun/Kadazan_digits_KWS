@@ -1,10 +1,11 @@
-Iso
-Duvo
-Tohu
-Apat
-Himo
-Onom
-Tuu
-Vahu
-Sizam
-Opod
+ID	Kadazan digit	English counterpart
+0	 'Iso'	 'One'
+1	 'Duvo'	 'Two'
+2	 'Tohu'	 'Three'
+3	 'Apat'	 'Four'
+4	 'Himo'	 'Five'
+5	 'Onom'	 'Six'
+6	 'Tuu'	 'Seven'
+7	 'Vahu'	 'Eight'
+8	 'Sizam'	 'Nine'
+9	 'Opod' 	 'Ten'
