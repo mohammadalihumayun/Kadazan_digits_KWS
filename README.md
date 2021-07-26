@@ -8,16 +8,16 @@ The samples are recorded by varying quality microphones in noisy recording condi
 The ten digits (1-10) in the Kadazan language are 
 
 |Kadazan|English|
-‘Iso'
-'Duvo'
-'Tohu'
-'Apat'
-'Himo'
-'Onom'
-'Tuu'
-'Vahu'
-'Sizam'
-'Opod’ 
 |---|---|
+|‘Iso'|'One'|
+|'Duvo'|'Two'|
+|'Tohu'|'Three'|
+|'Apat'|'Four'|
+|'Himo'|'Five'|
+|'Onom'|'Six'|
+|'Tuu'|'Seven'|
+|'Vahu'|'Eight'|
+|'Sizam'|'Nine'|
+|'Opod’|'Ten'|
 
 The least significant digit in the file name indicates the number of the digit spoken in the recording (e.g 0 for ‘Iso' and so on) while the rest of the digits in the file name represent the speaker.
